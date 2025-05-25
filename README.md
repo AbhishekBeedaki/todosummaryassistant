@@ -6,7 +6,7 @@ Features
 
 -  Add, edit, delete todos
 -  View all todos
--  Summarize pending todos (sends summary to Slack via backend)
+-  Summarize pending todos (sends summary to Slack via backend using openai)
 
 Tech Stack
 
